@@ -1,0 +1,12 @@
+
+15:18:18.200 [main] INFO  com.mercedesbenz.AddToCart.TC001_AddToCartTest - https://shop.mercedes-benz.com/en-gb/collection/ - Launched successfully
+15:18:18.316 [main] INFO  com.mercedesbenz.AddToCart.TC001_AddToCartTest - Test case execution started
+15:18:26.432 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - All Product displayed
+15:18:29.683 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - All Modelcars displayed 
+15:18:34.725 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - SLCoupe W Model selected successfully
+15:18:40.506 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - SLCoupe W Model added to basket successfully
+15:19:06.873 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - User details entered successfully
+15:19:27.343 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - Payment details entered successfully
+15:19:36.082 [main] INFO  com.mercedesbenz.pageobjects.AddtoCart - Order placed successfully
+15:19:36.082 [main] INFO  com.mercedesbenz.AddToCart.TC001_AddToCartTest - Test case execution completed
+15:19:38.243 [main] INFO  com.mercedesbenz.AddToCart.TC001_AddToCartTest - Browser is closed
