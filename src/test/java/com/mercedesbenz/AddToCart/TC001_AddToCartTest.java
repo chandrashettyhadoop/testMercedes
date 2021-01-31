@@ -23,7 +23,7 @@ public class TC001_AddToCartTest extends BaseClass {
 		log.info("https://shop.mercedes-benz.com/en-gb/collection/ - Launched successfully");
 	}
 
-	@Test // Testcase
+	@Test // TC
 	public void AddToCart() throws InterruptedException {
 		add = new AddtoCart(driver);
 		log.info("Test case execution started");
